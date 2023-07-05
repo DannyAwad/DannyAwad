@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Danny Awad
+- 👀 I’m interested in Javascript & AngularJS
+- 🌱 I’m currently sharping my AngularJS skills
+- 💞️ I’m looking for an AngularJS developer role
+- 📫 You can reach me at DannyAwad101@gmail.com
